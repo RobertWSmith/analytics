@@ -96,3 +96,8 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# SQLite databases
+analytics/db.sqlite3
+lists/db.sqlite3
+polls/db.sqlite3
